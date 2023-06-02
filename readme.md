@@ -1,3 +1,7 @@
+# [website for this repo](https://boogie-programming.github.io/boogiehasfun-website)
+
+
+
 ### this repo is separated from [BoogieHasFun/websitefiles-boogiehasfun.netlify.com](https://github.com/BoogieHasFun/websitefiles-boogiehasfun.netlify.com), but they are using the same code (for right now). this is for the organization and may be different one day. 
 
 hi! <br>
