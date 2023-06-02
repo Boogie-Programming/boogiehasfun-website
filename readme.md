@@ -1,3 +1,5 @@
+### this repo is separated from [BoogieHasFun/websitefiles-boogiehasfun.netlify.com](https://github.com/BoogieHasFun/websitefiles-boogiehasfun.netlify.com), but they are using the same code (for right now). this is for the organization and may be different one day. 
+
 hi! <br>
 this is the readme file. <br> if your on the website discard this file. <br>
 if your on the [github page](https://github.com/BoogieHasFun/websitefiles-boogiehasfun.netlify.com) you can check out the [website.](https://boogiehasfun.netlify.app/)
