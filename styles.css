@@ -1,6 +1,6 @@
 body
 {
-  font-family: Consolas;
+  font-family: Inconsolata;
   color:#c9d1d9;
 
 }
@@ -20,7 +20,7 @@ linkgit {
 
 homeheader
 {
-  font-family: Consolas;
+  font-family: Inconsolata;
   color: #c9d1d9;
   font-size: 20px;
 }
