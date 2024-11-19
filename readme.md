@@ -13,4 +13,4 @@ the website uses netlify for hosting. <br>
 see [the original source code](https://github.com/BoogieHasFun/github-boogiehasfun) for the other links that this is hosted on. <br>
 <strong><i> be warned that the original website and source code is not updated much because i have to manually update it. with netlify, it updates automatically. this repo is going to use github-pages instead.  </i></strong>
 
-:D
+this project is dead, you can make issues or pull requests and i might look at them but i will not be updating this unless i want to some day
